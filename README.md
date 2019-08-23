@@ -39,3 +39,7 @@ Total: `28.49$`
 
 The price of screw per hack0 is difficult to calculate as we bought way more different type than we needed in order to experiment.
 We estimate that buying exactly the screw you need would bring down the price of the case below `10$`.
+
+# Tooling
+
+* Acrylic cutter ([Link](https://www.amazon.co.jp/gp/product/B002RV9LGE/)) `6.5$`
