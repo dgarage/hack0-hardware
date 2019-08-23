@@ -38,7 +38,7 @@ Our case dimension is 160 x 90 x 55mm.
 Total: `28.49$`
 
 The price of screw per hack0 is difficult to calculate as we bought way more different type than we needed in order to experiment.
-We estimate that buying exactly the screw you need would bring down the price of the case below `10$`.
+We estimate that buying exactly the screw you need would bring down the price of the case below `10$`. (Similar to [Rock64 open case](https://store.pine64.org/?product=rock64-acrylic-open-enclosure))
 
 # Tooling
 
