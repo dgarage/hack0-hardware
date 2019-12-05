@@ -15,9 +15,9 @@ We used the [BitBox Base](https://base.shiftcrypto.ch) hardware without a case. 
 * Fan For ROCKPro64 20mm Mid Profile Heatsink ([Link](https://store.pine64.org/?product=fan-for-rockpro64-20mm-mid-profile-heatsink)) `2.99$`
 * ROCKPro64 20mm Mid Profile Heatsink ([Link](https://store.pine64.org/?product=rockpro64-20mm-mid-profile-heatsink)) `3.29$`
 * SSD 500GB PCIe NVMe, Crucial P1 ([Link](https://www.crucial.com/usa/en/ct500p1ssd8)) `66.99$`
-* Shift M.2 to PCIe adapter (Link?) 0$
+* Shift M.2 to PCIe adapter ([Link](https://shop.shiftcrypto.ch/en/products/compact-m2-nvme-ssd-to-pcie-adapter-15/)) `25$`
 
-Total: `174.2$`
+Total: `179.2$`
 
 ## Case specification
 
