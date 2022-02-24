@@ -1,3 +1,5 @@
+> :warning: We do not maintain the documentation in this repository anymore, see [BTCPay Server documentation](https://docs.btcpayserver.org/Deployment/Hack0/) instead.
+
 # Introduction
 
 This repository is documenting the hardware parts of the hack0.
